@@ -54,7 +54,7 @@ module.exports = {
 			// },
 		],
 		sidebar: {
-			'/docs/theme-reco/': ['', 'theme', 'love'],
+			'/docs/theme-reco/': ['', 'project', 'love'],
 		},
 		type: 'blog',
 		blogConfig: {
