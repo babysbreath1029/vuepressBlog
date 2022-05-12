@@ -1,4 +1,5 @@
 module.exports = {
+	// base:'/vuepressBlog/',
 	title: '小七先生',
 	description: '',
 	dest: 'public',
