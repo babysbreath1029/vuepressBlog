@@ -7,7 +7,7 @@ set -e
 npm run build
 
 # �������ɵ��ļ���
-cd docs/.vuepress/dist
+cd docs
 
 # ����Ƿ������Զ�������
 # echo 'www.yourwebsite.com' > CNAME
