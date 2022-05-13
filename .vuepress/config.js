@@ -8,7 +8,7 @@ module.exports = {
 			'link',
 			{
 				rel: 'icon',
-				href: '/favicon.ico',
+				href: '/qi.ico',
 			},
 		],
 		[
@@ -55,7 +55,7 @@ module.exports = {
 			// },
 		],
 		sidebar: {
-			'/docs/theme-reco/': ['', 'project', 'love'],
+			'/docs/theme-reco/': ['', 'project', 'love', 'share'],
 		},
 		type: 'blog',
 		blogConfig: {
@@ -172,6 +172,18 @@ module.exports = {
 					// },
 					// 网络文件示例
 					{
+						name: '原来你(衡)',
+						artist: '郭零叁 /刘至远',
+						url: 'http://dl.stream.qqmusic.qq.com/C400002ZOXdV1TjbyJ.m4a?guid=3386020560&vkey=B0FCF51CB287A453A0EBD1F6004DE910F642D6A547F5B6F74CCF7E3BB9597B0E9C84B06A8074EF8E989B497F5F02A47CFEDF389FFB91067B&uin=2633294801&fromtag=120002',
+						cover: '//y.qq.com/music/photo_new/T002R300x300M000001w1sAc3RHZQf_2.jpg?max_age=2592000',
+					},
+					{
+						name: '蓝色灰色(衡)',
+						artist: 'Zkaaai',
+						url: 'http://dl.stream.qqmusic.qq.com/C400001SWfzm2QSeMQ.m4a?guid=5229185190&vkey=B2EE6D7B0E1B49E36FF7789AB08AABB23DEAD0882CD301A7DBE12F3BA8BACE5667FDDCCC7B4BD67B9BBA30CB468D8D46914E3D6811DE29DC&uin=2633294801&fromtag=120002',
+						cover: '//y.qq.com/music/photo_new/T002R300x300M000004Leq1i33DLah_1.jpg?max_age=2592000',
+					},
+					{
 						name: '강남역 4번 출구',
 						artist: 'Plastic / Fallin` Dild',
 						url: 'https://assets.smallsunnyfox.com/music/2.mp3',
@@ -182,6 +194,24 @@ module.exports = {
 						artist: '최낙타',
 						url: 'https://assets.smallsunnyfox.com/music/3.mp3',
 						cover: 'https://assets.smallsunnyfox.com/music/3.jpg',
+					},
+					{
+						name: '爱丫爱丫',
+						artist: '李浩然',
+						url: 'http://dl.stream.qqmusic.qq.com/C400000PGMdY1RiJzJ.m4a?guid=4551754748&vkey=23254A6E843AEB1687677B0D0C5C9303087C5D7BDA8E83B794A5B5BDEF7D08F70C16FD5784812B3A1E70356E8691E0382758668F0D1CEDDF&uin=2633294801&fromtag=120002',
+						cover: '//y.qq.com/music/photo_new/T002R300x300M000003lFoIZ2ACrjx_1.jpg?max_age=2592000',
+					},
+					{
+						name: 'Aloha Heja He',
+						artist: 'Christian /die saubern Jungs',
+						url: 'http://dl.stream.qqmusic.qq.com/C400002yyWqT0KzPJE.m4a?guid=666494344&vkey=30AF044D6210018B346D1B1964E2064F56B0C056DD264FE693FA0AC22146B895395E6DAFFBADC9537EE9C98143BE39A53233CC27F775FB00&uin=2633294801&fromtag=120002',
+						cover: '//y.qq.com/music/photo_new/T002R300x300M000002VxxO91TA3Zb_1.jpg?max_age=2592000',
+					},
+					{
+						name: '最美的瞬间',
+						artist: '小阿七',
+						url: 'http://dl.stream.qqmusic.qq.com/C400000EMMBy3umewW.m4a?guid=1562045487&vkey=21E77EABE4DC1C7EC524F9B8DC32B062CEC34F78FFEE71697D90B227706466AD6A2E6304DA89DE37DAE3038B54EBA0405E3ACA9076440E56&uin=2633294801&fromtag=120002',
+						cover: '//y.qq.com/music/photo_new/T002R300x300M000003fdv2p072OLG_1.jpg?max_age=2592000',
 					},
 				],
 			},

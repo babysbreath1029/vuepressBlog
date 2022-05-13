@@ -20,7 +20,8 @@ heroImageStyle:
         background: '#fff',
         borderRadius: '1rem',
     }
-bgImage: bg4.jpg
+bgImage: back1.gif
+# bgImage: bg4.jpg
 bgImageStyle: { height: '95vh' }
 
 isShowTitleInHome: false
